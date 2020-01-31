@@ -22,7 +22,6 @@
     loading: {
       finished: c,
       finishedMsg: "<em>Congratulations, you've reached the end of the internet.</em>",
-	img: "https://www.infinite-scroll.com/loading.gif",
       msg: null,
       msgText: "<em>Loading the next set of posts...</em>",
       selector: null,
